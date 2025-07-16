@@ -130,7 +130,3 @@ Map<String, Object> procedureResult = crudOps.executeStoredProcedure("get_user_d
 3. Handle exceptions properly and rollback transactions on failure
 4. Use connection pooling for better performance
 5. Close connections when done to free resources
-
-## License
-
-MIT License
